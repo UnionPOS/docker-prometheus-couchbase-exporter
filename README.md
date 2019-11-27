@@ -19,7 +19,6 @@ Dockerfile for Prometheus Couchbase Exporter
 
 ## Quick Start
 
-## Quick Start
 
 Here's how to get started...
 
